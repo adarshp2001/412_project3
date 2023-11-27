@@ -16,8 +16,8 @@ a:-webkit-any-link:active {
 
 /* All pages header */
 .page-header{
-    background-color: #011936;
-    /* background-color: red; */
+    /* background-color: #011936; */
+    background-color: yellow;
 }
 
 #logo {
