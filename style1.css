@@ -1,7 +1,7 @@
 /* General page styling*/
 body {
-  /* background-color: #BEBEBE; */
-  background-color: red;
+  background-color: #BEBEBE;
+  /* background-color: red; */
   margin: 0px;
 }
 
@@ -17,8 +17,8 @@ a:-webkit-any-link:active {
 
 /* All pages header */
 .page-header{
-    /* background-color: #011936; */
-    background-color: yellow;
+    background-color: #011936;
+    /* background-color: yellow; */
 }
 
 #logo {
